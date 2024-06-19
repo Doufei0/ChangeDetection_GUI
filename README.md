@@ -22,13 +22,13 @@ python==3.8.10
 
 界面：
 
-![本地路径](test_img\界面.jpg)
+![image](test_img/界面.jpg)
 
 
 
 结果：
 
-![本地路径](test_img\结果.jpg)
+![image](test_img/结果.jpg)
 
 
 
